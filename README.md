@@ -53,17 +53,7 @@ This repository showcases a curated selection of my academic and applied work ac
 - Tools: Excel, Python, Fama-French 3 Factor Model
 - **[Access available on request]**
 
-### 7. Index-Linked Bond vs. Thematic Equity Fund Comparison
-- Comparative analysis of risk-return and benchmark tracking behavior.
-- Use of correlation, NAV tracking, and inflation sensitivity.
-- **[Access available on request]**
 
-### 8. Financial Statement Analysis *(Business Finance Project)*
-- FCFE, FCFF, ROCE, Activity Ratios, Dupont Breakdown.
-- Cash flow and capital structure review of real-world companies.
-- **[Access available on request]**
-
----
 
 ##  Machine Learning and Predictive Analytics Projects
 
