@@ -1,5 +1,5 @@
-# Project-portfolio--Chaitali-Ghadi
-# Chaitali Ghadi – Project Portfolio
+# Project-portfolio-- by: Chaitali-Ghadi
+
 
 ## About Me
 
