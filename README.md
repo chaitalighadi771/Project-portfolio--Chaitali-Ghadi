@@ -3,7 +3,7 @@
 
 ## About Me
 
-I Chaitali Ghadi, a recent graduate with a B.Sc. in Actuarial Science and Quantitative Finance,
+I Chaitali Ghadi, a graduate with a B.Sc. in Actuarial Science and Quantitative Finance,
 My academic and project experience lies at the intersection of quantitative modeling, financial analytics, and machine learning.
 
 Throughout my degree, I have worked on practical, data-driven projects involving interest rate derivatives, exotic option pricing, portfolio risk evaluation, and predictive modeling using Python, R, and Excel. I enjoy solving analytical problems with precision, creativity, and curiosity.
