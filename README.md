@@ -86,8 +86,7 @@ This repository showcases a curated selection of my academic and applied work ac
 ## 📬 Contact
 
 **Chaitali Ghadi**  
-B.Sc. in Actuarial Science and Quantitative Finance  
-📫 [Insert your email here]  
+B.Sc. in Actuarial Science and Quantitative Finance 
 🔗 [LinkedIn Profile](www.linkedin.com/in/chaitali-ghadi-apr15)  
 ---
 
