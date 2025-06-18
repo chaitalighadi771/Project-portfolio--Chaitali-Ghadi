@@ -53,6 +53,11 @@ This repository showcases a curated selection of my academic and applied work ac
 - Tools: Excel, Python, Fama-French 3 Factor Model
 - **[Access available on request]**
 
+### 7. Bond Pricing with Embedded Options *(Fixed Income Products)*
+- Valuation of a fixed-income security with call and put embedded options.
+- Includes plain bond pricing, option valuation, and final pricing using Excel.
+- Covers concepts like YTM, NPV, and volatility-based simulation.
+- **[Access available on request]**
 
 
 ##  Machine Learning and Predictive Analytics Projects
