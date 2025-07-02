@@ -36,6 +36,18 @@ This repository showcases a curated selection of my academic and applied work ac
 - INR-denominated fixed-floating swap valued using zero curves.
 - NPV calculations under parallel and non-parallel interest rate shocks.
 - Tools: Excel, Discounting, Forward rate interpolation
+- ## Sensitivity Analysis
+
+### Parallel Interest Rate Shocks
+The model evaluates the impact of parallel upward and downward shifts (for example, ±50 basis points) in the entire yield curve. The NPV is recalculated under each scenario to assess interest rate sensitivity.
+
+### Non-Parallel Yield Curve Distortions
+The model also simulates non-parallel movements in the yield curve:
+- Steepening: Long-term rates increase more than short-term rates.
+- Flattening: Short-term rates increase or long-term rates decrease.
+- ## Files Included
+- `IRS_Valuation_Model.xlsx`: Excel workbook containing the complete valuation model and sensitivity analysis.
+- `README.md`: Documentation outlining methodology and key components of the project.
 - **[Access available on request]**
 
 ### 3. European Swaption Valuation
