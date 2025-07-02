@@ -59,6 +59,14 @@ This repository showcases a curated selection of my academic and applied work ac
 - Covers concepts like YTM, NPV, and volatility-based simulation.
 - **[Access available on request]**
 
+###  8. Basel III & IV Implementation Analysis – Comparative Banking Project
+-  Analyzed regulatory compliance frameworks of SBI (India) and DBS Bank (Singapore) under Basel III and IV standards to assess capital adequacy, liquidity management, and risk governance practices.
+-  Conducted a deep-dive analysis into Capital Adequacy Ratio (CAR), Liquidity Coverage Ratio (LCR), Net Stable Funding Ratio (NSFR), Leverage Ratio, and ICAAP processes using real bank disclosures and regulatory filings.
+-  Evaluated cross-jurisdictional regulatory approaches (RBI vs MAS) and their alignment with Basel Committee standards, emphasizing implications on financial resilience and systemic risk control.
+-  Assessed the impact of Basel IV reforms on Risk-Weighted Asset (RWA) calculations, output floors, internal model constraints, and capital buffers—highlighting key challenges in credit, market, and operational risk transitions.
+-  Delivered strategic recommendations for adapting to Basel IV, covering capital optimization, stress testing, compliance automation, and treasury adjustments.
+-  Presented findings through a data-driven and regulatory-anchored presentation, demonstrating expertise in international liquidity risk frameworks and financial stability planning.
+Skills: Basel III/IV, LCR, NSFR, ICAAP, RWA, Risk Regulation, Cross-Border Compliance, Liquidity Risk, Capital Planning, Stress Testing
 
 ##  Machine Learning and Predictive Analytics Projects
 
