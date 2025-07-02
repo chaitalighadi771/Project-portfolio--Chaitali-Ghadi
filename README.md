@@ -18,8 +18,17 @@ This repository showcases a curated selection of my academic and applied work ac
 ## Finance and Risk Management Projects
 
 ### 1. RBL Bank – Risk Management Framework *(RMIM1 Project)*
-- Analysis of RBL Bank’s credit, market, operational, and liquidity risk controls.
-- Basel III compliance, risk appetite, and enterprise governance model.
+-Conducted a detailed review of RBL Bank’s annual reports and quarterly Basel III disclosures.
+- Identified and classified core risk types: credit risk, market risk, liquidity risk, operational risk, and interest rate risk in the banking book (IRRBB).
+- Mapped each risk type to relevant Basel Pillars (I, II, III) to understand the capital adequacy and risk control structure.
+- Analyzed the bank’s Non-Performing Asset (NPA) ratios, credit cost, and provisioning trends to assess credit risk exposure.
+- Reviewed market risk disclosures including interest rate risk, value-at-risk, and exposure limits across trading and banking books.
+- Evaluated the Liquidity Coverage Ratio (LCR), asset-liability maturity mismatches, and funding structure to assess liquidity risk.
+- Summarized key metrics such as CRAR, Tier 1 Capital Ratio, and risk-weighted assets to determine capital adequacy performance.
+- Interpreted the bank’s approach to operational risk management, including internal control structure and loss-event reporting.
+- Studied risk governance and Board-level risk oversight processes documented in public disclosures.
+- Developed a comprehensive risk map and linked financial indicators to each risk category.
+
 - Tools: PowerPoint, RBI & Basel disclosures
 - **[Access available on request]**
 
